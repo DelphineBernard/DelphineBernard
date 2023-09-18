@@ -8,7 +8,7 @@
 
 ###
 
-<p align="center">.<br>..<br>...<br>I'm Delphine Bernard and I am training to be a web developer with O'clock School.<br>...<br>..<br>.</p>
+<p align="center"><br><br><br>I'm Delphine Bernard and I am training to be a web developer with O'clock School.<br><br><br></p>
 
 ###
 
