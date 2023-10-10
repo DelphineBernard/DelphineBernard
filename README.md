@@ -4,8 +4,6 @@
 
 <br clear="both">
 
-<img align="left" height="200" src="https://zupimages.net/up/23/38/0qb3.png"  />
-
 ###
 
 <p align="center"><br><br><br>I'm Delphine Bernard and I am training to be a web developer at O'clock School.<br><br><br></p>
